@@ -1,0 +1,8 @@
+<html>
+<body>
+<p><b><i>Bold italic paragraph</i></b></p>
+<p><strong><em><small>Strong, emphasized, small paragraph</small></em></strong></p>
+<p>Abbreviation <abbr title="Bake Rolls"> BR </abbr></p>
+<bdo dir="rtl">Inverted text</bdo>
+</body>
+</html>
