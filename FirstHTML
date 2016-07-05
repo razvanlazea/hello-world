@@ -25,11 +25,14 @@ h1 {color:darkblue;}
 <hr>
 
 <h1>Styles</h1>
-<a href="Style">Styles</a>
+<a href="Style" target="_blank">Open styles in new window</a>
 <hr>
 
 <h1>Text editing and quotations</h1>
-<a href="Text edit">Text edit and quotations</a>
+<a href="Text edit">Open text edit and quotations in the same window</a>
+<hr>
 
+<h1>Tables</h1>
+<iframe src="TableAndList" style="border-color:yellow"></iframe>
 </body>
 </html>

@@ -1,0 +1,31 @@
+<html>
+<body>
+<table border="1" style="width:100%">
+<tr>
+<th>What</th>
+<th>Number</th>
+</tr>
+<tr>
+<td>row</td>
+<td>one</td>
+</tr>
+<tr>
+<td>row</td>
+<td>two</td>
+</tr>
+</table>
+
+<ul style="list-style-type:square">
+<li>First element</li>
+<li>Second element</li>
+<li>Third element</li>
+</ul>
+
+<dl>
+<dt>List</dt>
+<dd> - ordered or not</dd>
+<dt>Table</dt>
+<dd> - big or small</dd>
+</dl>
+</body>
+</html>
