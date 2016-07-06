@@ -35,4 +35,6 @@ h1 {color:darkblue;}
 <h1>Tables</h1>
 <iframe src="TableAndList" style="border-color:yellow"></iframe>
 </body>
+<h1>Forms</h1>
+<a href="Forms">Open Forms</a>
 </html>
