@@ -1,0 +1,13 @@
+<html>
+<body>
+<form>
+<input type="radio" name="what" value="aThing">A thing<br>
+<input type="radio" name="what" value="another">Another thing<br>
+</form>
+<hr>
+<form>
+<input type="text" name="field" placeholder="First Name">
+<input type="text" name="field" placeholder="Last Name"><br>
+</form>
+</body>
+</html>

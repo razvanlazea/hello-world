@@ -1,0 +1,18 @@
+<html>
+<body>
+<table border="1" style="width:100%">
+<tr>
+<th>What</th>
+<th>Number</th>
+</tr>
+<tr>
+<td>row</td>
+<td>one</td>
+</tr>
+<tr>
+<td>row</td>
+<td>two</td>
+</tr>
+</table>
+</body>
+</html>

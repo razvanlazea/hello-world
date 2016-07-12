@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<link type="text/css" rel="stylesheet" href="someStyle.css" />
+<link type="text/css" rel="stylesheet" href="someStyle.css" >
 <title> Title </title>
 <!--<style>
 div.someclass{
